@@ -5,7 +5,7 @@ body{
 
 h1{
   color: white;
-  font-size: 70px;
+  font-size: 69px;
   font-weight: bold;
 }
 
@@ -21,11 +21,12 @@ h3{
 
 .background-image{
   background-image: url("https://github.com/LunaNoxMoon/Broadway/blob/master/recourses/images/the-flatiron-building.png?raw=true");
+  background-repeat: no-repeat;
 }
 
 .background-image a{
   color: white;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .background-image p{
