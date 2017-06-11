@@ -1,7 +1,51 @@
-h1{
-  color:orange;
+body{
+  text-align: center;
+  font-family: helvetica;
 }
 
-#home{
+h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2{
+font-size: 32px;
+font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.background-image{
   background-image: url("https://github.com/LunaNoxMoon/Broadway/blob/master/recourses/images/the-flatiron-building.png?raw=true");
+}
+
+.background-image a{
+  color: white;
+  font-size: 18px;
+}
+
+.background-image p{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer{
+  text-align: left;
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+.footer a{
+  font-size: 18px;
+  color: white;
+}
+
+p{
+  font-size: 14px;
 }
